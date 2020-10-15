@@ -1,0 +1,2022 @@
+[
+  {
+    "vin": "AAV",
+    "country": "South Africa",
+    "brand": "Volkswagen"
+  },
+  {
+    "vin": "ADM",
+    "country": "South Africa",
+    "brand": "General Motors South Africa"
+  },
+  {
+    "vin": "ADN",
+    "country": "South Africa",
+    "brand": "Nissan South Africa (Pty) Ltd"
+  },
+  {
+    "vin": "AHT",
+    "country": "South Africa",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "AFA",
+    "country": "South Africa",
+    "brand": "Ford"
+  },
+  {
+    "vin": "BF9",
+    "country": "Kenya",
+    "brand": "KIBO Motorcycles"
+  },
+  {
+    "vin": "CL9",
+    "country": "Tunisia",
+    "brand": "Wallyscar"
+  },
+  {
+    "vin": "DA1 DA4",
+    "country": "Egypt",
+    "brand": "Arab American Vehicles Company"
+  },
+  {
+    "vin": "DAA",
+    "country": "Egypt",
+    "brand": "Fiat Auto Egypt Industrial Co"
+  },
+  {
+    "vin": "DAB",
+    "country": "Egypt",
+    "brand": "BMW Egypt SKD"
+  },
+  {
+    "vin": "J8B",
+    "country": "Japan",
+    "brand": "Isuzu Motor Co/Chevrolet"
+  },
+  {
+    "vin": "JAA JAL JAM",
+    "country": "Japan",
+    "brand": "Isuzu"
+  },
+  {
+    "vin": "JC1",
+    "country": "Japan",
+    "brand": "Fiat Automobiles/Mazda"
+  },
+  {
+    "vin": "JDA JD1",
+    "country": "Japan",
+    "brand": "Daihatsu Motor Co. Ltd."
+  },
+  {
+    "vin": "JF1-JF3",
+    "country": "Japan",
+    "brand": "Subaru - Fuji Heavy Industries"
+  },
+  {
+    "vin": "JF4",
+    "country": "Japan",
+    "brand": "SAAB"
+  },
+  {
+    "vin": "JF5",
+    "country": "Japan",
+    "brand": "Pontiac"
+  },
+  {
+    "vin": "JHD, JHF, JHH",
+    "country": "Japan",
+    "brand": "Hino"
+  },
+  {
+    "vin": "JHL",
+    "country": "Japan",
+    "brand": "Honda"
+  },
+  {
+    "vin": "JHM",
+    "country": "Japan",
+    "brand": "Honda"
+  },
+  {
+    "vin": "JL5",
+    "country": "Japan",
+    "brand": "Mitsubishi FUSO Truck & Bus Corp"
+  },
+  {
+    "vin": "JM0",
+    "country": "Japan",
+    "brand": "Mazda for Oceania export"
+  },
+  {
+    "vin": "JM1",
+    "country": "Japan",
+    "brand": "Mazda"
+  },
+  {
+    "vin": "JMB",
+    "country": "Japan",
+    "brand": "Mitsubishi"
+  },
+  {
+    "vin": "JM6",
+    "country": "Japan",
+    "brand": "Mazda"
+  },
+  {
+    "vin": "JN",
+    "country": "Japan",
+    "brand": "Nissan"
+  },
+  {
+    "vin": "JS",
+    "country": "Japan",
+    "brand": "Suzuki"
+  },
+  {
+    "vin": "JT",
+    "country": "Japan",
+    "brand": "Toyota/Lexus"
+  },
+  {
+    "vin": "JY",
+    "country": "Japan",
+    "brand": "Yamaha"
+  },
+  {
+    "vin": "KL1/KL2/KLA",
+    "country": "South Korea",
+    "brand": "Daewoo/GM Korea"
+  },
+  {
+    "vin": "KMA",
+    "country": "South Korea",
+    "brand": "Asia Motors Co Inc"
+  },
+  {
+    "vin": "KMH",
+    "country": "South Korea",
+    "brand": "Hyundai"
+  },
+  {
+    "vin": "KNA/KNC/KNE",
+    "country": "South Korea",
+    "brand": "Kia"
+  },
+  {
+    "vin": "KNM",
+    "country": "South Korea",
+    "brand": "Samsung Motors Inc"
+  },
+  {
+    "vin": "KPT",
+    "country": "South Korea",
+    "brand": "SsangYong"
+  },
+  {
+    "vin": "L1C",
+    "country": "China",
+    "brand": "Hubei Huawei Special-Purpose Automobile"
+  },
+  {
+    "vin": "L2C",
+    "country": "China",
+    "brand": "Chery Jaguar Land Rover"
+  },
+  {
+    "vin": "L6T",
+    "country": "China",
+    "brand": "Geely"
+  },
+  {
+    "vin": "LA6",
+    "country": "China",
+    "brand": "King Long"
+  },
+  {
+    "vin": "LB3",
+    "country": "China",
+    "brand": "Geely"
+  },
+  {
+    "vin": "LBE",
+    "country": "China",
+    "brand": "Beijing Hyundai"
+  },
+  {
+    "vin": "LBV",
+    "country": "China",
+    "brand": "BMW Brilliance"
+  },
+  {
+    "vin": "LC0",
+    "country": "China",
+    "brand": "BYD Industry"
+  },
+  {
+    "vin": "LDC",
+    "country": "China",
+    "brand": "Dongfeng Peugeot-Citroen"
+  },
+  {
+    "vin": "LDN",
+    "country": "China",
+    "brand": "South East Motor Co Ltd"
+  },
+  {
+    "vin": "LE4",
+    "country": "China",
+    "brand": "Beijing Benz"
+  },
+  {
+    "vin": "LFA",
+    "country": "China",
+    "brand": "Ford Lio Ho Motor Co Ltd"
+  },
+  {
+    "vin": "LFM",
+    "country": "China",
+    "brand": "FAW Toyota"
+  },
+  {
+    "vin": "LFP",
+    "country": "China",
+    "brand": "FAW Car"
+  },
+  {
+    "vin": "LFV",
+    "country": "China",
+    "brand": "FAW-Volkswagen"
+  },
+  {
+    "vin": "LGB",
+    "country": "China",
+    "brand": "Dongfeng Nissan"
+  },
+  {
+    "vin": "LGJ",
+    "country": "China",
+    "brand": "Dongfeng Fengshen"
+  },
+  {
+    "vin": "LGW",
+    "country": "China",
+    "brand": "Great Wall (Havel)"
+  },
+  {
+    "vin": "LGX",
+    "country": "China",
+    "brand": "BYD Auto"
+  },
+  {
+    "vin": "LH1",
+    "country": "China",
+    "brand": "FAW Haima"
+  },
+  {
+    "vin": "LHG",
+    "country": "China",
+    "brand": "Guangzhou Honda"
+  },
+  {
+    "vin": "LJ1",
+    "country": "China",
+    "brand": "JAC"
+  },
+  {
+    "vin": "LJD",
+    "country": "China",
+    "brand": "Dongfeng Yueda Kia"
+  },
+  {
+    "vin": "LJU",
+    "country": "China",
+    "brand": "Shanghai Maple Automobile Co."
+  },
+  {
+    "vin": "LLV",
+    "country": "China",
+    "brand": "Lifan"
+  },
+  {
+    "vin": "LMG",
+    "country": "China",
+    "brand": "GAC Trumpchi"
+  },
+  {
+    "vin": "LPA",
+    "country": "China",
+    "brand": "Changan PSA (DS Automobiles)"
+  },
+  {
+    "vin": "LPS",
+    "country": "China",
+    "brand": "Polestar"
+  },
+  {
+    "vin": "LS5",
+    "country": "China",
+    "brand": "Changan Suzuki"
+  },
+  {
+    "vin": "LSF",
+    "country": "China",
+    "brand": "SAIC Maxus"
+  },
+  {
+    "vin": "LSG",
+    "country": "China",
+    "brand": "SAIC General Motors"
+  },
+  {
+    "vin": "LSJ",
+    "country": "China",
+    "brand": "SAIC MG"
+  },
+  {
+    "vin": "LSV",
+    "country": "China",
+    "brand": "SAIC Volkswagen"
+  },
+  {
+    "vin": "LTV",
+    "country": "China",
+    "brand": "FAW Toyota (Tianjin)"
+  },
+  {
+    "vin": "LUX",
+    "country": "China",
+    "brand": "Dongfeng Yulon Motor Co. Ltd"
+  },
+  {
+    "vin": "LVG",
+    "country": "China",
+    "brand": "GAC Toyota"
+  },
+  {
+    "vin": "LVH",
+    "country": "China",
+    "brand": "Dongfeng Honda"
+  },
+  {
+    "vin": "LVR",
+    "country": "China",
+    "brand": "Changan Mazda"
+  },
+  {
+    "vin": "LVS",
+    "country": "China",
+    "brand": "Changan Ford"
+  },
+  {
+    "vin": "LVV",
+    "country": "China",
+    "brand": "Chery"
+  },
+  {
+    "vin": "LWV",
+    "country": "China",
+    "brand": "GAC Fiat"
+  },
+  {
+    "vin": "LZW",
+    "country": "China",
+    "brand": "SAIC GM Wuling"
+  },
+  {
+    "vin": "LZY",
+    "country": "China",
+    "brand": "Yutong"
+  },
+  {
+    "vin": "MA1",
+    "country": "India",
+    "brand": "Mahindra"
+  },
+  {
+    "vin": "MA3",
+    "country": "India",
+    "brand": "Maruti Suzuki India Limited|Maruti|Suzuki"
+  },
+  {
+    "vin": "MA6",
+    "country": "India",
+    "brand": "General Motors India Pvt. Ltd."
+  },
+  {
+    "vin": "MA7",
+    "country": "India",
+    "brand": "Hindustan Motors Ltd"
+  },
+  {
+    "vin": "MAJ",
+    "country": "India",
+    "brand": "Ford India Ltd."
+  },
+  {
+    "vin": "MAK",
+    "country": "India",
+    "brand": "Honda Motor India Pvt. Ltd."
+  },
+  {
+    "vin": "MAL",
+    "country": "India",
+    "brand": "Hyundai Motors India Ltd"
+  },
+  {
+    "vin": "MAT",
+    "country": "India",
+    "brand": "Tata Engineering & Locomotive Co"
+  },
+  {
+    "vin": "MB1",
+    "country": "India",
+    "brand": "Ashok Leyland Ltd"
+  },
+  {
+    "vin": "MBH",
+    "country": "India",
+    "brand": "Maruti Suzuki Automobiles India Limited"
+  },
+  {
+    "vin": "MBJ",
+    "country": "India",
+    "brand": "Toyota Kirloskar Motor Pvt Ltd"
+  },
+  {
+    "vin": "MBK",
+    "country": "India",
+    "brand": "MAN Truck & Bus India Pvt. Ltd"
+  },
+  {
+    "vin": "MBU",
+    "country": "India",
+    "brand": "Swaraj Vehicles Limited"
+  },
+  {
+    "vin": "MBV",
+    "country": "India",
+    "brand": "Premier Car World Pvt. Ltd"
+  },
+  {
+    "vin": "MBY",
+    "country": "India",
+    "brand": "Asia Motor Works good vehicle Ltd"
+  },
+  {
+    "vin": "MC1",
+    "country": "India",
+    "brand": "Force Motors Limited"
+  },
+  {
+    "vin": "MC2",
+    "country": "India",
+    "brand": "Eicher Motors Limited"
+  },
+  {
+    "vin": "MC4",
+    "country": "India",
+    "brand": "Dilip chhabria design pvt ltd"
+  },
+  {
+    "vin": "MCA",
+    "country": "India",
+    "brand": "FCA India Automobiles Pvt. Ltd"
+  },
+  {
+    "vin": "MCB",
+    "country": "India",
+    "brand": "General Motors India Pvt. Ltd."
+  },
+  {
+    "vin": "MCL",
+    "country": "India",
+    "brand": "International Cars And Motors Ltd"
+  },
+  {
+    "vin": "MD2",
+    "country": "India",
+    "brand": "Bajaj Auto Ltd"
+  },
+  {
+    "vin": "MDH",
+    "country": "India",
+    "brand": "Nissan Motor India Pvt Ltd"
+  },
+  {
+    "vin": "MEC",
+    "country": "India",
+    "brand": "Daimler India Commercial Vehicles Pvt. Ltd."
+  },
+  {
+    "vin": "MEE",
+    "country": "India",
+    "brand": "Renault Nissan Automobiles Pvt Ltd"
+  },
+  {
+    "vin": "MLH",
+    "country": "Thailand",
+    "brand": "Honda"
+  },
+  {
+    "vin": "MM0",
+    "country": "Thailand",
+    "brand": "Mazda"
+  },
+  {
+    "vin": "MM8",
+    "country": "Thailand",
+    "brand": "Mazda (Ford-Mazda AAT plant)"
+  },
+  {
+    "vin": "MMB",
+    "country": "Thailand",
+    "brand": "Mitsubishi"
+  },
+  {
+    "vin": "MMF",
+    "country": "Thailand",
+    "brand": "BMW"
+  },
+  {
+    "vin": "MMH",
+    "country": "Thailand",
+    "brand": "Tata"
+  },
+  {
+    "vin": "MMK",
+    "country": "Thailand",
+    "brand": "Toyota (Auto Works plant)"
+  },
+  {
+    "vin": "MMM",
+    "country": "Thailand",
+    "brand": "Chevrolet"
+  },
+  {
+    "vin": "MML",
+    "country": "Thailand",
+    "brand": "MG"
+  },
+  {
+    "vin": "MMR",
+    "country": "Thailand",
+    "brand": "Subaru"
+  },
+  {
+    "vin": "MMS",
+    "country": "Thailand",
+    "brand": "Suzuki"
+  },
+  {
+    "vin": "MMT",
+    "country": "Thailand",
+    "brand": "Mitsubishi"
+  },
+  {
+    "vin": "MNB",
+    "country": "Thailand",
+    "brand": "Ford (Ford-Mazda AAT plant)"
+  },
+  {
+    "vin": "MNK",
+    "country": "Thailand",
+    "brand": "Hino Motors Manufacturing Thailand Co Ltd"
+  },
+  {
+    "vin": "MNT",
+    "country": "Thailand",
+    "brand": "Nissan"
+  },
+  {
+    "vin": "MPA",
+    "country": "Thailand",
+    "brand": "IMCT Isuzu Motors Company Thailand"
+  },
+  {
+    "vin": "MPB",
+    "country": "Thailand",
+    "brand": "Ford (FTM plant)"
+  },
+  {
+    "vin": "MP5",
+    "country": "Thailand",
+    "brand": "Foton"
+  },
+  {
+    "vin": "MRH",
+    "country": "Thailand",
+    "brand": "Honda"
+  },
+  {
+    "vin": "MR0",
+    "country": "Thailand",
+    "brand": "Toyota (Ban Pho and Samrong plant)"
+  },
+  {
+    "vin": "MR2",
+    "country": "Thailand",
+    "brand": "Toyota (Gateway plant)"
+  },
+  {
+    "vin": "MS0",
+    "country": "Myanmar",
+    "brand": "Kia"
+  },
+  {
+    "vin": "NAA",
+    "country": "Iran",
+    "brand": "Irankhodro Company"
+  },
+  {
+    "vin": "NAD",
+    "country": "Iran",
+    "brand": "Saipa Diesel"
+  },
+  {
+    "vin": "NAG",
+    "country": "Iran",
+    "brand": "Bahman Industrial Group"
+  },
+  {
+    "vin": "NAP",
+    "country": "Iran",
+    "brand": "Pars Khodro"
+  },
+  {
+    "vin": "NFB",
+    "country": "Pakistan",
+    "brand": "Honda Atlas Cars Pakistan Ltd"
+  },
+  {
+    "vin": "NLC",
+    "country": "Turkey",
+    "brand": "Askam Kamyon Imalat Ve Tic.A.S."
+  },
+  {
+    "vin": "NMA",
+    "country": "Turkey",
+    "brand": "MAN"
+  },
+  {
+    "vin": "NMT",
+    "country": "Turkey",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "NM0",
+    "country": "Turkey",
+    "brand": "Ford Otosan"
+  },
+  {
+    "vin": "NM1",
+    "country": "Turkey",
+    "brand": "Oyak-Renault Oto Fab AS"
+  },
+  {
+    "vin": "NM4",
+    "country": "Turkey",
+    "brand": "Tofas Turk Otomobil Fabrikasi AS"
+  },
+  {
+    "vin": "PAB",
+    "country": "Philippines",
+    "brand": "Isuzu Philippines Corporation"
+  },
+  {
+    "vin": "PL1",
+    "country": "Malaysia",
+    "brand": "Proton"
+  },
+  {
+    "vin": "PL8",
+    "country": "Malaysia",
+    "brand": "Hyundai Inokom"
+  },
+  {
+    "vin": "PLP",
+    "country": "Malaysia",
+    "brand": "Subaru"
+  },
+  {
+    "vin": "PMH",
+    "country": "Malaysia",
+    "brand": "Honda"
+  },
+  {
+    "vin": "PML",
+    "country": "Malaysia",
+    "brand": "Hicom"
+  },
+  {
+    "vin": "PM1",
+    "country": "Malaysia",
+    "brand": "BMW"
+  },
+  {
+    "vin": "PM2",
+    "country": "Malaysia",
+    "brand": "Perodua"
+  },
+  {
+    "vin": "PM9",
+    "country": "Malaysia",
+    "brand": "Bufori"
+  },
+  {
+    "vin": "PMK",
+    "country": "Malaysia",
+    "brand": "Honda Boon Siew"
+  },
+  {
+    "vin": "PMN",
+    "country": "Malaysia",
+    "brand": "Modenas"
+  },
+  {
+    "vin": "PMV",
+    "country": "Malaysia",
+    "brand": "Yamaha Hong Leong"
+  },
+  {
+    "vin": "PNA",
+    "country": "Malaysia",
+    "brand": "Kia"
+  },
+  {
+    "vin": "PNA",
+    "country": "Malaysia",
+    "brand": "Peugeot"
+  },
+  {
+    "vin": "PNV",
+    "country": "Malaysia",
+    "brand": "Volvo Cars"
+  },
+  {
+    "vin": "PN1",
+    "country": "Malaysia",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "PN8",
+    "country": "Malaysia",
+    "brand": "Nissan"
+  },
+  {
+    "vin": "PP1",
+    "country": "Malaysia",
+    "brand": "Mazda"
+  },
+  {
+    "vin": "PP3",
+    "country": "Malaysia",
+    "brand": "Hyundai"
+  },
+  {
+    "vin": "PPP",
+    "country": "Malaysia",
+    "brand": "Suzuki"
+  },
+  {
+    "vin": "PR8",
+    "country": "Malaysia",
+    "brand": "Ford"
+  },
+  {
+    "vin": "RF5",
+    "country": "Taiwan",
+    "brand": "Yulon Motor Co Ltd"
+  },
+  {
+    "vin": "RFD",
+    "country": "Taiwan",
+    "brand": "Tai Ling Motor Co Ltd"
+  },
+  {
+    "vin": "RHA",
+    "country": "Taiwan",
+    "brand": "Ford Lio Ho Motor Co Ltd"
+  },
+  {
+    "vin": "RKL",
+    "country": "Taiwan",
+    "brand": "Toyota Taiwan"
+  },
+  {
+    "vin": "RLE",
+    "country": "Vietnam",
+    "brand": "Isuzu Vietnam Co Ltd"
+  },
+  {
+    "vin": "SAB",
+    "country": "United Kingdom",
+    "brand": "Optare"
+  },
+  {
+    "vin": "SAJ",
+    "country": "United Kingdom",
+    "brand": "Jaguar"
+  },
+  {
+    "vin": "SAL",
+    "country": "United Kingdom",
+    "brand": "Land Rover"
+  },
+  {
+    "vin": "SAR",
+    "country": "United Kingdom",
+    "brand": "Rover"
+  },
+  {
+    "vin": "SAT",
+    "country": "United Kingdom",
+    "brand": "Triumph"
+  },
+  {
+    "vin": "SB1",
+    "country": "United Kingdom",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "SBM",
+    "country": "United Kingdom",
+    "brand": "McLaren Automotive"
+  },
+  {
+    "vin": "SCC",
+    "country": "United Kingdom",
+    "brand": "Lotus Cars"
+  },
+  {
+    "vin": "SCF",
+    "country": "United Kingdom",
+    "brand": "Aston Martin Lagonda Limited"
+  },
+  {
+    "vin": "SCE",
+    "country": "United Kingdom",
+    "brand": "DeLorean"
+  },
+  {
+    "vin": "SCK",
+    "country": "United Kingdom",
+    "brand": "Ifor Williams Trailers"
+  },
+  {
+    "vin": "SDB",
+    "country": "United Kingdom",
+    "brand": "Talbot Motor Co Ltd"
+  },
+  {
+    "vin": "SFD",
+    "country": "United Kingdom",
+    "brand": "Alexander Dennis"
+  },
+  {
+    "vin": "SFE",
+    "country": "United Kingdom",
+    "brand": "Alexander Dennis (North America)"
+  },
+  {
+    "vin": "SHH",
+    "country": "United Kingdom",
+    "brand": "Honda"
+  },
+  {
+    "vin": "SHS",
+    "country": "United Kingdom",
+    "brand": "Honda"
+  },
+  {
+    "vin": "SJK SJN",
+    "country": "United Kingdom",
+    "brand": "Nissan"
+  },
+  {
+    "vin": "SUD",
+    "country": "Poland",
+    "brand": "Wielton"
+  },
+  {
+    "vin": "SUP",
+    "country": "Poland",
+    "brand": "Fabryka Samochodow Osobowych"
+  },
+  {
+    "vin": "TCC",
+    "country": "Switzerland",
+    "brand": "Micro Compact Car"
+  },
+  {
+    "vin": "TEB",
+    "country": "UK/Switzerland",
+    "brand": "Johnston sweeper (Bucher)"
+  },
+  {
+    "vin": "TMA",
+    "country": "Czech Republic",
+    "brand": "Hyundai"
+  },
+  {
+    "vin": "TMB",
+    "country": "Czech Republic",
+    "brand": "Skoda"
+  },
+  {
+    "vin": "TRU",
+    "country": "Hungary",
+    "brand": "Audi"
+  },
+  {
+    "vin": "TSM",
+    "country": "Hungary",
+    "brand": "Suzuki"
+  },
+  {
+    "vin": "TW8",
+    "country": "Portugal",
+    "brand": "General Motors De Portugal Lda"
+  },
+  {
+    "vin": "U5Y",
+    "country": "Slovakia",
+    "brand": "Kia"
+  },
+  {
+    "vin": "UU",
+    "country": "Romania",
+    "brand": "Dacia"
+  },
+  {
+    "vin": "VA0",
+    "country": "Austria",
+    "brand": "ÖAF"
+  },
+  {
+    "vin": "VBK",
+    "country": "Austria",
+    "brand": "KTM"
+  },
+  {
+    "vin": "VF1",
+    "country": "France",
+    "brand": "Renault"
+  },
+  {
+    "vin": "VF2",
+    "country": "France",
+    "brand": "Renault"
+  },
+  {
+    "vin": "VF3",
+    "country": "France",
+    "brand": "Peugeot"
+  },
+  {
+    "vin": "VF4",
+    "country": "France",
+    "brand": "Talbot"
+  },
+  {
+    "vin": "VF5",
+    "country": "France",
+    "brand": "Iveco Unic SA"
+  },
+  {
+    "vin": "VF6",
+    "country": "France",
+    "brand": "Renault Trucks/Volvo"
+  },
+  {
+    "vin": "VF7",
+    "country": "France",
+    "brand": "Citroen"
+  },
+  {
+    "vin": "VF8",
+    "country": "France",
+    "brand": "Matra/Talbot/Simca"
+  },
+  {
+    "vin": "VF9",
+    "country": "France",
+    "brand": "Bugatti"
+  },
+  {
+    "vin": "VFE",
+    "country": "France",
+    "brand": "IvecoBus"
+  },
+  {
+    "vin": "VNK",
+    "country": "France",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "VR1",
+    "country": "France",
+    "brand": "DS Automobiles"
+  },
+  {
+    "vin": "VS7",
+    "country": "Spain",
+    "brand": "Citroen"
+  },
+  {
+    "vin": "VSE",
+    "country": "Spain",
+    "brand": "Santana Motor SA"
+  },
+  {
+    "vin": "VSK",
+    "country": "Spain",
+    "brand": "Nissan Motor Iberica SA, Nissan Passenger & Multi-Purpose Vehicle"
+  },
+  {
+    "vin": "VSS",
+    "country": "Spain",
+    "brand": "SEAT"
+  },
+  {
+    "vin": "VSX",
+    "country": "Spain",
+    "brand": "Opel Automobile Espana,SA"
+  },
+  {
+    "vin": "VV9",
+    "country": "Spain",
+    "brand": "Tauro Sport Auto"
+  },
+  {
+    "vin": "VX1",
+    "country": "Serbia",
+    "brand": "Sour Zavodi"
+  },
+  {
+    "vin": "WAG",
+    "country": "Germany",
+    "brand": "Neoplan"
+  },
+  {
+    "vin": "WAU",
+    "country": "Germany",
+    "brand": "Audi"
+  },
+  {
+    "vin": "WAP",
+    "country": "Germany",
+    "brand": "Alpina"
+  },
+  {
+    "vin": "WBA",
+    "country": "Germany",
+    "brand": "BMW"
+  },
+  {
+    "vin": "WBS",
+    "country": "Germany",
+    "brand": "BMW M"
+  },
+  {
+    "vin": "WBX",
+    "country": "Germany",
+    "brand": "BMW"
+  },
+  {
+    "vin": "WDB",
+    "country": "Germany",
+    "brand": "Mercedes-Benz"
+  },
+  {
+    "vin": "WDC, WDD, WMX",
+    "country": "Germany",
+    "brand": "DaimlerChrysler AG/Daimler AG"
+  },
+  {
+    "vin": "WEB",
+    "country": "Germany",
+    "brand": "EvoBus"
+  },
+  {
+    "vin": "WF0",
+    "country": "Germany",
+    "brand": "Ford of Europe"
+  },
+  {
+    "vin": "WJM",
+    "country": "Germany",
+    "brand": "Iveco"
+  },
+  {
+    "vin": "WJR",
+    "country": "Germany",
+    "brand": "Irmscher"
+  },
+  {
+    "vin": "WKK",
+    "country": "Germany",
+    "brand": "Karl Kässbohrer Fahrzeugwerke"
+  },
+  {
+    "vin": "WMA",
+    "country": "Germany",
+    "brand": "MAN"
+  },
+  {
+    "vin": "WME",
+    "country": "Germany",
+    "brand": "Smart"
+  },
+  {
+    "vin": "WMW",
+    "country": "Germany",
+    "brand": "Mini"
+  },
+  {
+    "vin": "WP0",
+    "country": "Germany",
+    "brand": "Porsche car"
+  },
+  {
+    "vin": "WP1",
+    "country": "Germany",
+    "brand": "Porsche SUV"
+  },
+  {
+    "vin": "WUA",
+    "country": "Germany",
+    "brand": "Quattro"
+  },
+  {
+    "vin": "WVG",
+    "country": "Germany",
+    "brand": "Volkswagen"
+  },
+  {
+    "vin": "WVW",
+    "country": "Germany",
+    "brand": "Volkswagen"
+  },
+  {
+    "vin": "WV1",
+    "country": "Germany",
+    "brand": "Volkswagen Commercial Vehicles"
+  },
+  {
+    "vin": "WV2",
+    "country": "Germany",
+    "brand": "Volkswagen Commercial Vehicles"
+  },
+  {
+    "vin": "W08",
+    "country": "Germany",
+    "brand": "Adam Opel AG Belgium"
+  },
+  {
+    "vin": "W09",
+    "country": "Germany",
+    "brand": "Ruf Automobile"
+  },
+  {
+    "vin": "W0L",
+    "country": "Germany",
+    "brand": "Opel/Vauxhall"
+  },
+  {
+    "vin": "W0SV",
+    "country": "Germany",
+    "brand": "Opel Special Vehicles"
+  },
+  {
+    "vin": "XLR",
+    "country": "Netherlands",
+    "brand": "DAF Trucks"
+  },
+  {
+    "vin": "XTA",
+    "country": "Russia",
+    "brand": "AvtoVAZ"
+  },
+  {
+    "vin": "XTB",
+    "country": "Russia",
+    "brand": "AZLK"
+  },
+  {
+    "vin": "XU1",
+    "country": "Russia",
+    "brand": "UAZ Special Purpose Vehicles Ltd"
+  },
+  {
+    "vin": "XUF",
+    "country": "Russia",
+    "brand": "General Motors Auto"
+  },
+  {
+    "vin": "XWB",
+    "country": "Uzbekistan",
+    "brand": "Daewoo GM Uzbekistan"
+  },
+  {
+    "vin": "Y6D",
+    "country": "Ukraine",
+    "brand": "Zaporiz'kyi avtozavod"
+  },
+  {
+    "vin": "YK1",
+    "country": "Finland",
+    "brand": "Saab"
+  },
+  {
+    "vin": "YS2",
+    "country": "Sweden",
+    "brand": "Scania, Södertälje"
+  },
+  {
+    "vin": "YS3",
+    "country": "Sweden",
+    "brand": "Saab"
+  },
+  {
+    "vin": "YS4",
+    "country": "Sweden",
+    "brand": "Scania, Katrineholm"
+  },
+  {
+    "vin": "YTN",
+    "country": "Sweden",
+    "brand": "Saab NEVS"
+  },
+  {
+    "vin": "YV1",
+    "country": "Sweden",
+    "brand": "Volvo Cars"
+  },
+  {
+    "vin": "YV2",
+    "country": "Sweden",
+    "brand": "Volvo Trucks"
+  },
+  {
+    "vin": "YV3",
+    "country": "Sweden",
+    "brand": "Volvo Buses"
+  },
+  {
+    "vin": "YT9",
+    "country": "Sweden",
+    "brand": "Koenigsegg Automotive AB"
+  },
+  {
+    "vin": "ZA9",
+    "country": "Italy",
+    "brand": "Bugatti"
+  },
+  {
+    "vin": "ZAM",
+    "country": "Italy",
+    "brand": "Maserati"
+  },
+  {
+    "vin": "ZAP",
+    "country": "Italy",
+    "brand": "Piaggio"
+  },
+  {
+    "vin": "ZAR",
+    "country": "Italy",
+    "brand": "Alfa Romeo"
+  },
+  {
+    "vin": "ZCF",
+    "country": "Italy",
+    "brand": "Iveco"
+  },
+  {
+    "vin": "ZFA",
+    "country": "Italy",
+    "brand": "Fiat"
+  },
+  {
+    "vin": "ZFF",
+    "country": "Italy",
+    "brand": "Ferrari"
+  },
+  {
+    "vin": "ZGA",
+    "country": "Italy",
+    "brand": "IvecoBus"
+  },
+  {
+    "vin": "ZHW",
+    "country": "Italy",
+    "brand": "Lamborghini"
+  },
+  {
+    "vin": "ZLA",
+    "country": "Italy",
+    "brand": "Lancia"
+  },
+  {
+    "vin": "1B",
+    "country": "United States",
+    "brand": "Dodge"
+  },
+  {
+    "vin": "1C",
+    "country": "United States",
+    "brand": "Chrysler"
+  },
+  {
+    "vin": "1F",
+    "country": "United States",
+    "brand": "Ford"
+  },
+  {
+    "vin": "1G",
+    "country": "United States",
+    "brand": "General Motors"
+  },
+  {
+    "vin": "1G1",
+    "country": "United States",
+    "brand": "Chevrolet"
+  },
+  {
+    "vin": "1G3",
+    "country": "United States",
+    "brand": "Oldsmobile"
+  },
+  {
+    "vin": "1G4",
+    "country": "United States",
+    "brand": "Buick"
+  },
+  {
+    "vin": "1G9",
+    "country": "United States",
+    "brand": "Google"
+  },
+  {
+    "vin": "1GB",
+    "country": "United States",
+    "brand": "Chevrolet incomplete vehicles"
+  },
+  {
+    "vin": "1GC",
+    "country": "United States",
+    "brand": "Chevrolet"
+  },
+  {
+    "vin": "1GD",
+    "country": "United States",
+    "brand": "GMC incomplete vehicles"
+  },
+  {
+    "vin": "1GM",
+    "country": "United States",
+    "brand": "Pontiac"
+  },
+  {
+    "vin": "1HG",
+    "country": "United States",
+    "brand": "Honda"
+  },
+  {
+    "vin": "1J",
+    "country": "United States",
+    "brand": "Jeep"
+  },
+  {
+    "vin": "1L",
+    "country": "United States",
+    "brand": "Lincoln"
+  },
+  {
+    "vin": "1M",
+    "country": "United States",
+    "brand": "Mercury"
+  },
+  {
+    "vin": "1MR",
+    "country": "United States",
+    "brand": "Continental"
+  },
+  {
+    "vin": "1N",
+    "country": "United States",
+    "brand": "Nissan"
+  },
+  {
+    "vin": "1VW",
+    "country": "United States",
+    "brand": "Volkswagen"
+  },
+  {
+    "vin": "1YV",
+    "country": "United States",
+    "brand": "Mazda"
+  },
+  {
+    "vin": "1ZV",
+    "country": "United States",
+    "brand": "Ford"
+  },
+  {
+    "vin": "2DG",
+    "country": "Canada",
+    "brand": "Ontario Drive & Gear"
+  },
+  {
+    "vin": "2F",
+    "country": "Canada",
+    "brand": "Ford"
+  },
+  {
+    "vin": "2Gx",
+    "country": "Canada",
+    "brand": "General Motors"
+  },
+  {
+    "vin": "2G1",
+    "country": "Canada",
+    "brand": "Chevrolet"
+  },
+  {
+    "vin": "2G2",
+    "country": "Canada",
+    "brand": "Pontiac"
+  },
+  {
+    "vin": "2G9",
+    "country": "Canada",
+    "brand": "Gnome Homes"
+  },
+  {
+    "vin": "2HG",
+    "country": "Canada",
+    "brand": "Honda"
+  },
+  {
+    "vin": "2HH",
+    "country": "Canada",
+    "brand": "Acura"
+  },
+  {
+    "vin": "2HJ",
+    "country": "Canada",
+    "brand": "Honda"
+  },
+  {
+    "vin": "2HK",
+    "country": "Canada",
+    "brand": "Honda"
+  },
+  {
+    "vin": "2HM",
+    "country": "Canada",
+    "brand": "Hyundai"
+  },
+  {
+    "vin": "2L9",
+    "country": "Canada",
+    "brand": "Les Contenants Durabac"
+  },
+  {
+    "vin": "2LN",
+    "country": "Canada",
+    "brand": "Lincoln"
+  },
+  {
+    "vin": "2M",
+    "country": "Canada",
+    "brand": "Mercury"
+  },
+  {
+    "vin": "2T",
+    "country": "Canada",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "3F",
+    "country": "Mexico",
+    "brand": "Ford"
+  },
+  {
+    "vin": "3G",
+    "country": "Mexico",
+    "brand": "General Motors"
+  },
+  {
+    "vin": "3HG",
+    "country": "Mexico",
+    "brand": "Honda"
+  },
+  {
+    "vin": "3HM",
+    "country": "Mexico",
+    "brand": "Honda"
+  },
+  {
+    "vin": "3KP",
+    "country": "Mexico",
+    "brand": "Kia"
+  },
+  {
+    "vin": "3N",
+    "country": "Mexico",
+    "brand": "Nissan"
+  },
+  {
+    "vin": "3VW",
+    "country": "Mexico",
+    "brand": "Volkswagen"
+  },
+  {
+    "vin": "4F",
+    "country": "United States",
+    "brand": "Mazda"
+  },
+  {
+    "vin": "4J",
+    "country": "United States",
+    "brand": "Mercedes-Benz"
+  },
+  {
+    "vin": "4M",
+    "country": "United States",
+    "brand": "Mercury"
+  },
+  {
+    "vin": "4S2",
+    "country": "United States",
+    "brand": "Isuzu Motors America Inc"
+  },
+  {
+    "vin": "4S3",
+    "country": "United States",
+    "brand": "Subaru"
+  },
+  {
+    "vin": "4S4",
+    "country": "United States",
+    "brand": "Subaru"
+  },
+  {
+    "vin": "4S6",
+    "country": "United States",
+    "brand": "Honda"
+  },
+  {
+    "vin": "4T",
+    "country": "United States",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "4US",
+    "country": "United States",
+    "brand": "BMW"
+  },
+  {
+    "vin": "5FN",
+    "country": "United States",
+    "brand": "Honda"
+  },
+  {
+    "vin": "5J6",
+    "country": "United States",
+    "brand": "Honda"
+  },
+  {
+    "vin": "5L",
+    "country": "United States",
+    "brand": "Lincoln"
+  },
+  {
+    "vin": "5N1",
+    "country": "United States",
+    "brand": "Nissan"
+  },
+  {
+    "vin": "5NM",
+    "country": "United States",
+    "brand": "Hyundai"
+  },
+  {
+    "vin": "5NP",
+    "country": "United States",
+    "brand": "Hyundai"
+  },
+  {
+    "vin": "5T",
+    "country": "United States",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "5U",
+    "country": "United States",
+    "brand": "BMW"
+  },
+  {
+    "vin": "5X",
+    "country": "United States",
+    "brand": "Hyundai/Kia"
+  },
+  {
+    "vin": "5YJ",
+    "country": "United States",
+    "brand": "Tesla"
+  },
+  {
+    "vin": "55",
+    "country": "United States",
+    "brand": "Mercedes-Benz"
+  },
+  {
+    "vin": "6F",
+    "country": "Australia",
+    "brand": "Ford"
+  },
+  {
+    "vin": "6G",
+    "country": "Australia",
+    "brand": "General Motors"
+  },
+  {
+    "vin": "6G1",
+    "country": "Australia",
+    "brand": "Chevrolet"
+  },
+  {
+    "vin": "6G2",
+    "country": "Australia",
+    "brand": "Pontiac"
+  },
+  {
+    "vin": "6H",
+    "country": "Australia",
+    "brand": "Holden"
+  },
+  {
+    "vin": "6MM",
+    "country": "Australia",
+    "brand": "Mitsubishi"
+  },
+  {
+    "vin": "6T1",
+    "country": "Australia",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "6T9",
+    "country": "Australia",
+    "brand": "Trailer"
+  },
+  {
+    "vin": "6U9",
+    "country": "Australia",
+    "brand": "Japanese Imports"
+  },
+  {
+    "vin": "7A1",
+    "country": "New Zealand",
+    "brand": "Mitsubishi"
+  },
+  {
+    "vin": "7A3",
+    "country": "New Zealand",
+    "brand": "Honda"
+  },
+  {
+    "vin": "7A4",
+    "country": "New Zealand",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "7A5",
+    "country": "New Zealand",
+    "brand": "Ford"
+  },
+  {
+    "vin": "7A8",
+    "country": "New Zealand",
+    "brand": "NZ Transport Agency (pre-2009)"
+  },
+  {
+    "vin": "7AT",
+    "country": "New Zealand",
+    "brand": "NZ Transport Agency (post-2009)"
+  },
+  {
+    "vin": "829",
+    "country": "Bolivia",
+    "brand": "Quantum"
+  },
+  {
+    "vin": "8AP",
+    "country": "Argentina",
+    "brand": "Fiat"
+  },
+  {
+    "vin": "8AF",
+    "country": "Argentina",
+    "brand": "Ford"
+  },
+  {
+    "vin": "8AG",
+    "country": "Argentina",
+    "brand": "General Motors"
+  },
+  {
+    "vin": "8AW",
+    "country": "Argentina",
+    "brand": "Volkswagen"
+  },
+  {
+    "vin": "8AJ",
+    "country": "Argentina",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "8A1",
+    "country": "Argentina",
+    "brand": "Renault"
+  },
+  {
+    "vin": "8AC",
+    "country": "Argentina",
+    "brand": "Mercedes Benz"
+  },
+  {
+    "vin": "8BB",
+    "country": "Argentina",
+    "brand": "Agrale Argentina S.A"
+  },
+  {
+    "vin": "8BC",
+    "country": "Argentina",
+    "brand": "Citroen"
+  },
+  {
+    "vin": "8AD",
+    "country": "Argentina",
+    "brand": "Peugeot"
+  },
+  {
+    "vin": "8AN",
+    "country": "Argentina",
+    "brand": "Nissan"
+  },
+  {
+    "vin": "8C3",
+    "country": "Argentina",
+    "brand": "Honda"
+  },
+  {
+    "vin": "8AT",
+    "country": "Argentina",
+    "brand": "Iveco"
+  },
+  {
+    "vin": "8G1 8GD",
+    "country": "Chile",
+    "brand": "Automotores Franco Chilena S.A"
+  },
+  {
+    "vin": "8GG",
+    "country": "Chile",
+    "brand": "General Motors Chile S.A"
+  },
+  {
+    "vin": "8LB",
+    "country": "Ecuador",
+    "brand": "General Motors OBB"
+  },
+  {
+    "vin": "8LF",
+    "country": "Ecuador",
+    "brand": "Maresa"
+  },
+  {
+    "vin": "8LG",
+    "country": "Ecuador",
+    "brand": "Aymesa"
+  },
+  {
+    "vin": "8Z1",
+    "country": "Venezuela",
+    "brand": "General Motors Venezolana C.A."
+  },
+  {
+    "vin": "9AM",
+    "country": "Brazil",
+    "brand": "Massari"
+  },
+  {
+    "vin": "9BD",
+    "country": "Brazil",
+    "brand": "Fiat Automoveis"
+  },
+  {
+    "vin": "9BG",
+    "country": "Brazil",
+    "brand": "General Motors"
+  },
+  {
+    "vin": "9BW",
+    "country": "Brazil",
+    "brand": "Volkswagen"
+  },
+  {
+    "vin": "9BF",
+    "country": "Brazil",
+    "brand": "Ford"
+  },
+  {
+    "vin": "93H",
+    "country": "Brazil",
+    "brand": "Honda"
+  },
+  {
+    "vin": "9BR",
+    "country": "Brazil",
+    "brand": "Toyota"
+  },
+  {
+    "vin": "936",
+    "country": "Brazil",
+    "brand": "Peugeot"
+  },
+  {
+    "vin": "935",
+    "country": "Brazil",
+    "brand": "Citroen"
+  },
+  {
+    "vin": "93P",
+    "country": "Brazil",
+    "brand": "Volare"
+  },
+  {
+    "vin": "93Y",
+    "country": "Brazil",
+    "brand": "Renault"
+  },
+  {
+    "vin": "93X",
+    "country": "Brazil",
+    "brand": "Souza Ramos - Mitsubishi / Suzuki"
+  },
+  {
+    "vin": "9BH",
+    "country": "Brazil",
+    "brand": "Hyundai"
+  },
+  {
+    "vin": "95P",
+    "country": "Brazil",
+    "brand": "CAOA / Hyundai"
+  },
+  {
+    "vin": "94D",
+    "country": "Brazil",
+    "brand": "Nissan"
+  },
+  {
+    "vin": "94G",
+    "country": "Brazil",
+    "brand": "Indabra"
+  },
+  {
+    "vin": "94M",
+    "country": "Brazil",
+    "brand": "HVR-Busscar"
+  },
+  {
+    "vin": "94N",
+    "country": "Brazil",
+    "brand": "RWM Brazil"
+  },
+  {
+    "vin": "98R",
+    "country": "Brazil",
+    "brand": "Chery"
+  },
+  {
+    "vin": "988",
+    "country": "Brazil",
+    "brand": "Jeep"
+  },
+  {
+    "vin": "98M",
+    "country": "Brazil",
+    "brand": "BMW"
+  },
+  {
+    "vin": "9BM",
+    "country": "Brazil",
+    "brand": "Mercedes-Benz"
+  },
+  {
+    "vin": "9BN",
+    "country": "Brazil",
+    "brand": "Mafersa"
+  },
+  {
+    "vin": "99A",
+    "country": "Brazil",
+    "brand": "Audi"
+  },
+  {
+    "vin": "99L",
+    "country": "Brazil",
+    "brand": "BYD"
+  },
+  {
+    "vin": "99J",
+    "country": "Brazil",
+    "brand": "Jaguar Land Rover"
+  },
+  {
+    "vin": "9C2",
+    "country": "Brazil",
+    "brand": "Honda Motorcycles"
+  },
+  {
+    "vin": "9C6",
+    "country": "Brazil",
+    "brand": "Yamaha"
+  },
+  {
+    "vin": "9CD",
+    "country": "Brazil",
+    "brand": "Suzuki (motorcycles)"
+  },
+  {
+    "vin": "93V",
+    "country": "Brazil",
+    "brand": "International Navistar"
+  },
+  {
+    "vin": "93W",
+    "country": "Brazil",
+    "brand": "Fiat Professional"
+  },
+  {
+    "vin": "93Z",
+    "country": "Brazil",
+    "brand": "Iveco"
+  },
+  {
+    "vin": "953",
+    "country": "Brazil",
+    "brand": "VW Trucks / MAN"
+  },
+  {
+    "vin": "9BS",
+    "country": "Brazil",
+    "brand": "Scania"
+  },
+  {
+    "vin": "9BV",
+    "country": "Brazil",
+    "brand": "Volvo Trucks"
+  },
+  {
+    "vin": "9BY",
+    "country": "Brazil",
+    "brand": "Agrale S/A"
+  },
+  {
+    "vin": "9FB",
+    "country": "Colombia",
+    "brand": "Renault"
+  },
+  {
+    "vin": "9FC",
+    "country": "Colombia",
+    "brand": "Compania Colombiana Automotriz S.A"
+  },
+  {
+    "vin": "9GC",
+    "country": "Colombia",
+    "brand": "General Motors Colmotores S.A"
+  },
+  {
+    "vin": "9UJ",
+    "country": "Uruguay",
+    "brand": "Chery"
+  },
+  {
+    "vin": "9UK",
+    "country": "Uruguay",
+    "brand": "Lifan"
+  },
+  {
+    "vin": "9UW",
+    "country": "Uruguay",
+    "brand": "Kia"
+  }
+]
